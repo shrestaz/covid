@@ -1,4 +1,4 @@
-OriginalDate,ModifiedDateWithYear,ISODate,ConfirmedTotalCases,TotalInfections,TotalNumberPeopleTested,TotalDeaths,DeathsPerDay,AdmittedToHospital,AdmittedToICU,PatientsInRespirator
+OriginalDate,ModDateAddYear,ISODate,TotalConfirmedCases,TotalRecovered,TotalNumberOfPeopleTested,TotalDeaths,DailyDeaths,TotalHospitalized,PeopleInICU,PeopleInVentilators
 M03D21,2020-03D21,2020-03-21,1326,NA,11657,22,3,206,42,35
 M03D22,2020-03D22,2020-03-22,1395,NA,12351,25,3,232,46,40
 M03D23,2020-03D23,2020-03-23,1450,NA,12843,31,6,254,55,47
